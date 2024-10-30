@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CKAN-Ui3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CKAN-Ui3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
